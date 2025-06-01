@@ -1,3 +1,5 @@
+// 15 ms - 628 kB
+
 #include <iostream>
 #include <algorithm>
 #include <cstdint>
